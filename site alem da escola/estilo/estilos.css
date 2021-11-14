@@ -1,0 +1,95 @@
+
+.titulo{
+font-family: muli,sans-serif;
+padding-left: 440px;
+padding-top: 40px;
+margin-bottom: 80px;
+text-align: center;
+font-size: 35px;
+
+
+}
+.fontes{
+
+	font-family: muli,sans-serif;
+
+}
+
+.N{
+font-size: 50px;
+padding-left: 120px;
+text-align: right;
+
+}
+
+.sobre{
+
+	font-size: 24px;
+	color: rgb(0, 0, 50);
+
+}
+.textinho{
+	
+		font-size: 24px;
+color: rgb(0, 0, 50);
+padding-left: 60px;
+text-align: center;
+}
+
+.body{
+	font-family: muli,sans-serif;
+background color: black;
+}
+
+.imagem{
+	padding-top: 100px;
+padding-left: 730px;
+
+width: 50% ;
+}
+
+.espaço{
+padding-top: 120px;
+	padding-left: 90px;
+}
+
+.sub{
+padding-top: 60px;
+	font-size: 25px;
+color: rgb(150, 120, 120);
+}
+
+.SUBTITULO{
+color: rgb(120, 120, 120);
+font-size: 25px;
+padding-left: 40px;
+
+}
+
+.SUBTITULO2{
+color: rgb(120, 120, 120);
+font-size: 25px;
+padding-left: 40px;
+
+}
+
+.regras{
+font-size: 20px;
+padding-left: 20px;
+
+
+}
+
+
+.regras2{
+font-size: 20px;
+padding-left: 20px;
+padding-bottom: 120px;
+
+}
+
+.endereço{
+	padding-right: 80%;
+	color: coral;
+}
+
